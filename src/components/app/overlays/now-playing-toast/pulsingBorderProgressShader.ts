@@ -1,4 +1,4 @@
-import { getShaderColorFromString, getShaderNoiseTexture, pulsingBorderMeta, ShaderFitOptions } from '@paper-design/shaders';
+import { getShaderColorFromString, getShaderNoiseTexture, pulsingBorderMeta, ShaderFitOptions } from '@paper-design/shaders-react';
 // src/components/app/overlays/now-playing-toast/pulsingBorderProgressShader.ts
 
 /*
