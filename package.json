@@ -15,6 +15,11 @@
   "engines": {
     "node": ">=24.0.0"
   },
+  "pnpm": {
+    "overrides": {
+      "linkedom": "0.18.12"
+    }
+  },
   "scripts": {
     "dev": "vite",
     "dev:probe": "vite --open /dev-probe.html",
