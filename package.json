@@ -1,5 +1,6 @@
 {
   "name": "folia-major",
+  "packageManager": "pnpm@9.15.9",
   "productName": "Folia",
   "desktopName": "folia-major.desktop",
   "description": "Lyrics Reimagine",
